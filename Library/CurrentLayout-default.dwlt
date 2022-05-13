@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1280
     height: 941
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 521}
   m_MaxSize: {x: 10000, y: 10000}
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 471}
   m_MaxSize: {x: 14001, y: 14021}
   vertical: 0
-  controlID: 831
+  controlID: 781
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 836
+  controlID: 815
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 837
+  controlID: 816
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -398,9 +398,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 46560000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 6cfbffff88420000e242000004430000
+      m_SelectedIDs: 0c840000
+      m_LastClickedID: 33804
+      m_ExpandedIDs: 00beffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -460,9 +460,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -107.63871, y: -10.281374, z: -10.486708}
+    m_Target: {x: -39.634865, y: -142.39873, z: 30.81271}
     speed: 2
-    m_Value: {x: -107.63871, y: -10.281374, z: -10.486708}
+    m_Value: {x: -39.634865, y: -142.39873, z: 30.81271}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -509,13 +509,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.05101645, y: -0.7182373, z: 0.05282527, w: 0.6919902}
+    m_Target: {x: 0.46629786, y: -0.4783003, z: 0.33565342, w: 0.66426843}
     speed: 2
-    m_Value: {x: -0.051016454, y: 0.71823734, z: -0.052825272, w: -0.6919902}
+    m_Value: {x: 0.46677268, y: -0.47727457, z: 0.3349334, w: 0.664945}
   m_Size:
-    m_Target: 48.223755
+    m_Target: 112.609665
     speed: 2
-    m_Value: 48.223755
+    m_Value: 112.609665
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -724,22 +724,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/animals
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/animals
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Folders\Mohamed\faculty projects\unity\My project
+  m_LastProjectPath: E:\unity scripples\new\ZooGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 46560000
-    m_LastClickedID: 22086
-    m_ExpandedIDs: 000000001256000000ca9a3b
+    m_SelectedIDs: 308c0000
+    m_LastClickedID: 35888
+    m_ExpandedIDs: 00000000308c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -767,7 +767,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001256000000ca9a3b
+    m_ExpandedIDs: 00000000308c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
